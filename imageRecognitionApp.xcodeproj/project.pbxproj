@@ -13,6 +13,7 @@
 		058ABB182625F9C500174134 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 058ABB162625F9C500174134 /* Main.storyboard */; };
 		058ABB1A2625F9C800174134 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 058ABB192625F9C800174134 /* Assets.xcassets */; };
 		058ABB1D2625F9C800174134 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 058ABB1B2625F9C800174134 /* LaunchScreen.storyboard */; };
+		058ABB262626018C00174134 /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 058ABB252626018C00174134 /* Inceptionv3.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		058ABB192625F9C800174134 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		058ABB1C2625F9C800174134 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		058ABB1E2625F9C800174134 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		058ABB252626018C00174134 /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				058ABB102625F9C500174134 /* AppDelegate.swift */,
 				058ABB122625F9C500174134 /* SceneDelegate.swift */,
 				058ABB142625F9C500174134 /* ViewController.swift */,
+				058ABB252626018C00174134 /* Inceptionv3.mlmodel */,
 				058ABB162625F9C500174134 /* Main.storyboard */,
 				058ABB192625F9C800174134 /* Assets.xcassets */,
 				058ABB1B2625F9C800174134 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				058ABB152625F9C500174134 /* ViewController.swift in Sources */,
+				058ABB262626018C00174134 /* Inceptionv3.mlmodel in Sources */,
 				058ABB112625F9C500174134 /* AppDelegate.swift in Sources */,
 				058ABB132625F9C500174134 /* SceneDelegate.swift in Sources */,
 			);
