@@ -63,9 +63,9 @@
 				058ABB142625F9C500174134 /* ViewController.swift */,
 				058ABB162625F9C500174134 /* Main.storyboard */,
 				058ABB192625F9C800174134 /* Assets.xcassets */,
-				055C89382628A67800FE6A66 /* Inceptionv3.mlmodel */,
 				058ABB1B2625F9C800174134 /* LaunchScreen.storyboard */,
 				058ABB1E2625F9C800174134 /* Info.plist */,
+				055C89382628A67800FE6A66 /* Inceptionv3.mlmodel */,
 			);
 			path = imageRecognitionApp;
 			sourceTree = "<group>";
@@ -297,7 +297,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.karan.mon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.karan.imr;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -316,7 +316,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.karan.mon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.karan.imr;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

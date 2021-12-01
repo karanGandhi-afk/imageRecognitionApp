@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  imageRecognitionApp
 //
-//  Created by Jada White on 4/13/21.
+
 //
 
 import UIKit
